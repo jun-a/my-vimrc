@@ -5,3 +5,7 @@
 プラグイン管理 NeoBundle
 
 問題点 VimShellの設定がうまくいかない
+
+次に入れるもの
+https://github.com/vim-ruby/vim-ruby
+NeoBundle 'vim-ruby/vim-ruby'
